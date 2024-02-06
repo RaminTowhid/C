@@ -8,6 +8,8 @@ int main(){
     }
     else{
         printf("Not Multiples");
+
+        
     }
     return 0;
 }
